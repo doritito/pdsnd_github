@@ -14,5 +14,5 @@ bikeshare.py - Python Code
 several .csv files that are used in the bikeshare.py code (these are being ignored)
 
 ### Credits
-Udacity GPT is a great help when I had questions. Thanks also for creating this course!
+Udacity GPT is a great help when I had questions. Thanks also for creating this course! Also thanks to my company for sponsoring this course!
 
