@@ -225,9 +225,9 @@ def user_info(df, city):
             most_recent_birth_year = int(df['Birth Year'].max())
             most_common_birth_year = int(df['Birth Year'].mode()[0])
 
-            print('\nEarliest year of birth:', earliest_birth_year)
-            print('Most recent year of birth:', most_recent_birth_year)
-            print('Most common year of birth:', most_common_birth_year)
+            print('\nEarliest Year of birth:', earliest_birth_year)
+            print('Most recent Year of birth:', most_recent_birth_year)
+            print('Most common Year of birth:', most_common_birth_year)
             print("Execution time: %s seconds" % (time.time() - start_time))
 
     print('-' * 40)
